@@ -8,3 +8,5 @@ $${\color{#c9c1f5}Hi \space call \space me \space Yei!}$$
 $${\color{#c9c1f5}Minor \space accident}$$
 
 <br clear="left" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313gn7isothdtoxvd65fyjcodeei&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
