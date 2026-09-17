@@ -5,8 +5,8 @@
 <img src="https://github.com/user-attachments/assets/4aa09444-9611-4f32-a38c-0d5f15275e2a" align="right" width="270" />
 <br>
 <br>
-<br>
 
+$$.✦ ݁˖$$
 $${\color{#977bd1}Hi \space call \space me \space Yei!}$$
 $${\color{#977bd1}6 \space teen}$$
 $${\color{#977bd1}loves \space purple!}$$
@@ -22,6 +22,7 @@ $${\color{#c7aefc}c+h \space is \space incouraged!}$$
 $${\color{#c7aefc}dont \space be \space shy \space i \space dont \space bite}$$
 $${\color{#c7aefc}dnc \space tho}$$
 $${\color{#c7aefc}thats \space all!}$$
+$$.✦ ݁˖$$
 
 <br clear="left" />
 
